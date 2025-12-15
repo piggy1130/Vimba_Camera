@@ -7,3 +7,10 @@ pip install vimba
 * check installation:  
 python -c "from vimba import Vimba; print('Vimba OK')"  
 
+## Vimba "Feature"  
+* ExposureTime
+* Gain
+* PixelFormat
+* Width, Height
+* TiggerMode
+* AcquisitionFrameRate
